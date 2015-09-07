@@ -946,7 +946,7 @@ group "toontownCentral" [
    ]
    landmark_building "tb2:toon_landmark_TT_A2_DNARoot" [
     code [ "toon_landmark_TT_A2" ]
-    title [ "Inflatable Wrecking Balls" ]
+    title [ "Little Cat's Emerald Emporium" ]
     pos [ 105 -10 0 ]
     nhpr [ 180 0 -0 ]
     door [
@@ -973,16 +973,28 @@ group "toontownCentral" [
       height [ 36.8297 ]
       flags [ "cd" ]
       text [
+       letters [ "L" ]
+      ]
+      text [
        letters [ "I" ]
       ]
       text [
-       letters [ "N" ]
+       letters [ "T" ]
       ]
       text [
-       letters [ "F" ]
+       letters [ "T" ]
       ]
       text [
        letters [ "L" ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ " " ]
+      ]
+      text [
+       letters [ "C" ]
       ]
       text [
        letters [ "A" ]
@@ -990,17 +1002,11 @@ group "toontownCentral" [
       text [
        letters [ "T" ]
       ]
-      text [
-       letters [ "A" ]
+	  text [
+       letters [ "'" ]
       ]
-      text [
-       letters [ "B" ]
-      ]
-      text [
-       letters [ "L" ]
-      ]
-      text [
-       letters [ "E" ]
+	  text [
+       letters [ "S" ]
       ]
      ]
      baseline [
@@ -1008,44 +1014,23 @@ group "toontownCentral" [
       color [ 0.25098 0.501961 0.501961 1 ]
       pos [ 0 0 -0.62 ]
       nhpr [ -0 0 4 ]
-      scale [ 1.1 1 1.4 ]
+      scale [ 1.1 1.1 1.1 ]
       kern [ 0.11259 ]
       wiggle [ 4.51671 ]
       stomp [ 0.037045 ]
       width [ 32.4349 ]
       height [ 32.4349 ]
       text [
-       letters [ "W" ]
+       letters [ "E" ]
       ]
       text [
-       letters [ "R" ]
+       letters [ "M" ]
       ]
       text [
        letters [ "E" ]
       ]
       text [
-       letters [ "C" ]
-      ]
-      text [
-       letters [ "K" ]
-      ]
-      text [
-       letters [ "I" ]
-      ]
-      text [
-       letters [ "N" ]
-      ]
-      text [
-       letters [ "G" ]
-      ]
-      text [
-       letters [ " " ]
-      ]
-      text [
-       letters [ " " ]
-      ]
-      text [
-       letters [ "B" ]
+       letters [ "R" ]
       ]
       text [
        letters [ "A" ]
@@ -1054,10 +1039,34 @@ group "toontownCentral" [
        letters [ "L" ]
       ]
       text [
-       letters [ "L" ]
+       letters [ "D" ]
       ]
       text [
-       letters [ "S" ]
+       letters [ " " ]
+      ]
+      text [
+       letters [ "E" ]
+      ]
+      text [
+       letters [ "M" ]
+      ]
+      text [
+       letters [ "P" ]
+      ]
+      text [
+       letters [ "O" ]
+      ]
+      text [
+       letters [ "R" ]
+      ]
+      text [
+       letters [ "I" ]
+      ]
+      text [
+       letters [ "U" ]
+      ]
+	  text [
+       letters [ "M" ]
       ]
      ]
     ]
